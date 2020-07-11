@@ -1,5 +1,5 @@
 
-![Dino](/dino.gif)
+![Dino](https://github.com/ccwisp/ccwisp/blob/master/dino.gif)
 <!--
 **ccwisp/ccwisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
